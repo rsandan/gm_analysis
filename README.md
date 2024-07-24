@@ -10,4 +10,4 @@ I'm a Brooklyn Nets fan, and with the [2nd worst loss in Nets Franchise history 
 - Draft Success Rate
 - Trade Impact Analysis
 
-Attached in this repo is the jupyter notebook I worked in and [here's the link to view it on the web](google.com) Please take a look!
+Attached in this repo is the jupyter notebook I worked in and [here's the link to view it on the web](https://nbviewer.org/github/rsandan/seanmarks_analysis/blob/main/gm_landscape.ipynb) Please take a look!
