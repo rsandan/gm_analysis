@@ -1,5 +1,5 @@
 # Is this Sean Marks last chance to build a good team in Brooklyn?
-![Current landscape](https://github.com/rsandan/seanmarks_analysis/gm_landscape.png?raw=true)
+![Current landscape](gm_landscape.png)
 *July 9. 2024*
 I'm a Brooklyn Nets fan, and with the [2nd worst loss in Nets Franchise history against the Celtics](https://www.nydailynews.com/2024/02/14/nets-embarrassed-celtics-mikal-bridges-jayson-tatum-jacque-vaughn/) this past season, I wanted to assess whether Nets GM Sean Mark, who is approaching 10 years of being the Nets GM, knows what he is doing and whether or not we're headed in the right direction. 
 
